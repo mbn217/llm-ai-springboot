@@ -1,0 +1,21 @@
+body {
+    background: #f4f6f8;
+}
+
+.chat-box {
+    height: 500px;
+    overflow-y: scroll;
+    border: 1px solid #ddd;
+    padding: 15px;
+    background: white;
+}
+
+.user-msg {
+    text-align: right;
+    color: blue;
+}
+
+.bot-msg {
+    text-align: left;
+    color: green;
+}
